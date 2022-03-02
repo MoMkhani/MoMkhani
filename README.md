@@ -2,8 +2,8 @@
 
 - 🚀 I’m MO
 - 🌏 I'm Persian, like the cat
-- 🌱 I’m currently working on projects to gain experience with exploratory data analysis, and machine learning
-- 👀 I’m interested in politics, football, and geography (Maps make me EXCITED!)
+- 🌱 Currently working on projects to gain experience with exploratory data analysis, and machine learning
+- 👀 Interested in politics, football, and geography (Maps make me EXCITED!)
 - 📫 How to reach me @ https://www.linkedin.com/in/momkh/
 - ⚡️ Fun fact: You can write my full name this way: Mohammad (1 + khani)
 <!---
